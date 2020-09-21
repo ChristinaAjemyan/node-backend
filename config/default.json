@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"printman_jwtPrivateKey",
+    "serverUrl": "http://localhost:3000"
+}
